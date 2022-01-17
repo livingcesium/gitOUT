@@ -1,0 +1,391 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    
+    /*background-image: url("promonologo.png");*/
+    background-size: cover;
+    background-color: rgb(8, 4, 8);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    overflow-x: hidden;
+   
+}
+.home {
+
+  background-image: url("promonologo.png");
+  background-size: 2332px, 1285px;
+  /*background-size: 100% , 75%;*/
+
+}
+
+.fishes {
+  max-width:852px;
+  height:384px;
+  position:absolute;
+      right: 0px;
+      top: 160px;
+      left: -240px;
+      bottom: 0px;
+}
+
+.hp2 {
+  padding-top: 500px;
+}
+
+
+footer {
+    font-family: 'Poppins', sans-serif;
+}
+
+.theader {
+  padding-top: 150px;
+}
+
+.head2 {
+  padding-top: 100px
+}
+
+.header {
+    background-image: url("cafe.filter.25.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.header .name {
+    text-align: center;
+    vertical-align: middle;
+    color: #FEFEFE;
+    font-size: 100px;
+    position: relative;
+    top: 0px;
+    font-weight: 600;
+    text-shadow: 5px 5px black;
+}
+
+.escape-room {
+    color: #e84a4f;
+    font-size: 150px;
+    position: relative;
+    top: 0px;
+    font-weight: 600;
+}
+ 
+
+.nav {
+    background-color: #a50000;
+}
+
+.navbar {
+   background-color:#000000 !important;
+}
+
+.item{
+
+  text-decoration-color: #ffffff !important;
+}
+
+.logo img{
+
+  height:63px;
+  width: 63px;
+}
+
+
+.Team img {
+    display: block;
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    border-radius: 10%;
+   
+
+
+}
+
+
+
+
+.contact .form-control {
+
+    border-radius: 0 !important;
+    z-index: 1;
+}
+
+.contact span {
+    width: 30px;
+    border-radius: 0 !important;
+}
+
+.contact .btn {
+
+    border-radius: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color: #fa0511;
+    color: #fff;
+    z-index: 1;
+    
+}
+
+.contact .btn:hover {
+
+    background-color: #7493b1 !important;
+    color: #fff !important;
+}
+
+.contact i {
+    text-align: center;
+    padding: 5px;
+}
+
+.fab {
+    padding: 20px;
+}
+
+.social {
+    color: white;
+    position: relative;
+    left: 1200px;
+    top: -10px;
+    display: inline;
+
+}
+.social a {
+    color: white;
+    float: left;
+}
+
+
+.footer button {
+    background-color: brown;
+    color: white;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+
+}
+
+.footer i {
+    color: white;
+    position: relative;
+    left: 80px;
+}
+
+.footer spam {
+    display: inline;
+}
+
+.footer h7 {
+    font-size: 13px;
+}
+
+.navbar ul {
+    position: absolute;
+    top: 10px;
+}
+
+.navbar i {
+    position: relative;
+    left: 5px;
+}
+
+
+
+
+
+#secline {
+    width: 50%;
+}
+
+.navtext {
+   z-index: 3;
+  position: absolute;
+  color: #ffffff;
+  max-width: 600px;
+
+}
+
+.navbar-nav a {
+    color: white;
+}
+
+
+
+
+/*.custom-coffee-page {*/
+
+/*    background-image: */
+
+/*}*/
+
+
+
+.text {
+    color: #b09b9b;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+
+.btn-signup {
+
+    border-radius: 50px;
+    border-color: #fff;
+    width: 470px;
+    height: 200px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 100px;
+    background-color: #d02438;
+    border-style: none;
+    color: #fff;
+    position: relative;
+    margin-top: 0%;
+    right: 350px;
+    transform: translate(70%, 250%); 
+    z-index: 1;
+}
+
+.buttontext {
+  text-align: center; 
+  line-height: 65px;
+}
+
+
+
+.rectangle {
+  position: relative;
+  height: 10px;
+  margin-top: 450px;
+  width: 100%;
+  background-color: #002855;
+}
+
+.p-about {
+
+  position: relative;
+  top: 2px;
+  color: #ffffff;
+  font-size: 20px;
+
+}
+/*
+.btn-startgame {
+
+    border-radius: 16px;
+    border-color: #fff;
+    width: 650px;
+    height: 200px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 75px;
+    background-color: #0353A4;
+    color: #fff;
+    position: relative;
+    top: 0px;
+    left: 25%;
+    transform: translate(-50%, 0%); 
+    z-index: 1;
+}*/
+/*
+.btn-challenge {
+
+  transform: scale(50%);
+  left: 32.5%;
+
+
+}
+*/
+
+.dummy1 {
+  position: relative;
+  top: 20px;
+  left: 25%;
+  height: 250px;
+  width: 50%;
+  background-color: #5363c2;
+  z-index: 1;
+}
+
+.btn-default{
+  background-color: #ed0243 !important;
+  
+}
+
+#Jesus about{
+    height: 50px;
+    width: 30px;
+  
+
+}
+#Cesar about{
+    height: 50px;
+    width: 30px;
+
+}
+#Ugo about{
+
+    height: 50px;
+    width: 30px;
+
+}
+
+.dummy-icon {
+
+  height: 250px;
+  width: 250px;
+  background-color: rgb(253, 0, 250);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 0px;
+
+}
+
+.game {
+
+  display: inline-block;
+  width:100%; 
+  
+
+}
+
+.gameWindow {
+
+  margin: 0;
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+}
+
+canvas {
+   display: inline;
+}
+
+.p-about {
+
+  padding-left: 25px;
+  padding-top: 80px;
+
+
+
+}
+
+.shortAbout {
+
+  margin-top: 900px;
+  text-align: center;
+  width: 100%;
+  height: 300px;
+  background-color:#150720;
+
+}
