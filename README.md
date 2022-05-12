@@ -11,3 +11,5 @@ ugochinyere.okogeri@csedge.org
 ```  
   
 If those don't work and you want to get in touch with them, contact me here and I'll see if can get their updated contact information
+
+![image](https://user-images.githubusercontent.com/97855377/167974480-1e23777d-3dd3-49bd-b30a-926ba033e9e0.png)
